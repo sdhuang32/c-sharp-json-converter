@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9l0odnzeO+3Cr0ghGTKEqe3QYOiM3AP66bXEtYlwaQ6qg9xIGOAwk4VwLpEr5lD42dYHePfTrMqTEycVaBGUzw==",
+  "dgSpecHash": "J9f+jSUW2EekxKE1Es0gUbtIr5T87Y3J8PfX4GtJiWVbF2jiDqKVZUV5OilVIqdlQhEsrh48qOa5fLN4BO5AWg==",
   "success": true,
-  "projectFilePath": "/Users/michaelhuang/git/c-sharp-test/myapp/myapp.csproj",
+  "projectFilePath": "/Users/michaelhuang/git/c-sharp-test/c-sharp-json-converter/myapp.csproj",
   "expectedPackageFiles": [
     "/Users/michaelhuang/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
   ],

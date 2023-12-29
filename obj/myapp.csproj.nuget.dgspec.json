@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michaelhuang/git/c-sharp-test/myapp/myapp.csproj": {}
+    "/Users/michaelhuang/git/c-sharp-test/c-sharp-json-converter/myapp.csproj": {}
   },
   "projects": {
-    "/Users/michaelhuang/git/c-sharp-test/myapp/myapp.csproj": {
+    "/Users/michaelhuang/git/c-sharp-test/c-sharp-json-converter/myapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michaelhuang/git/c-sharp-test/myapp/myapp.csproj",
+        "projectUniqueName": "/Users/michaelhuang/git/c-sharp-test/c-sharp-json-converter/myapp.csproj",
         "projectName": "myapp",
-        "projectPath": "/Users/michaelhuang/git/c-sharp-test/myapp/myapp.csproj",
+        "projectPath": "/Users/michaelhuang/git/c-sharp-test/c-sharp-json-converter/myapp.csproj",
         "packagesPath": "/Users/michaelhuang/.nuget/packages/",
-        "outputPath": "/Users/michaelhuang/git/c-sharp-test/myapp/obj/",
+        "outputPath": "/Users/michaelhuang/git/c-sharp-test/c-sharp-json-converter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/michaelhuang/.nuget/NuGet/NuGet.Config"
